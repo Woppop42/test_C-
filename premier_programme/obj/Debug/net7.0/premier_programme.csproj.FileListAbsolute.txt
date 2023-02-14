@@ -1,0 +1,15 @@
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/bin/Debug/net7.0/premier_programme
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/bin/Debug/net7.0/premier_programme.deps.json
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/bin/Debug/net7.0/premier_programme.runtimeconfig.json
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/bin/Debug/net7.0/premier_programme.dll
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/bin/Debug/net7.0/premier_programme.pdb
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/obj/Debug/net7.0/premier_programme.csproj.AssemblyReference.cache
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/obj/Debug/net7.0/premier_programme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/obj/Debug/net7.0/premier_programme.AssemblyInfoInputs.cache
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/obj/Debug/net7.0/premier_programme.AssemblyInfo.cs
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/obj/Debug/net7.0/premier_programme.csproj.CoreCompileInputs.cache
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/obj/Debug/net7.0/premier_programme.dll
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/obj/Debug/net7.0/refint/premier_programme.dll
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/obj/Debug/net7.0/premier_programme.pdb
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/obj/Debug/net7.0/premier_programme.genruntimeconfig.cache
+/Users/gabriel/Projects/projet_cs/premier_programme/premier_programme/obj/Debug/net7.0/ref/premier_programme.dll
